@@ -22,4 +22,4 @@
 `npx cypress run -s "cypress/integration/smoke/e-gift/e-gift-card-cud.spec.ts"`
 
 ## Additional Information
-### Amazon's security against fake profiles is very strong. The login credentials on this project can only be run about once or twice. From there Amazon ### will notice that the credentials are abnormal, therefore the user of the credentials will no longer be permitted to sign in. 
+### Amazon's security against fake profiles is very strong. The login credentials on this project can only be run about once or twice. From there Amazon ### will notice that the credentials are abnormal, therefore the user of the credentials will no longer be permitted to sign in.
