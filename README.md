@@ -1,8 +1,8 @@
 # automattion-ui-eGift
 Automated cud test for Amazon's eGift feature
 
-##Installing Cypress##
-###Setup and installation of the Cypress project and dependencies can be performed partially through your operating system’s GUI and CLI or entirely through the CLI (e.g, Terminal, CMD, iTerm2).
+## Installing Cypress
+### Setup and installation of the Cypress project and dependencies can be performed partially through your operating system’s GUI and CLI or entirely through the CLI (e.g, Terminal, CMD, iTerm2).
 
 ###Within the CLI program of choice, change the working directory (cd) to the prospective project folder and run this command:
 `git clone git@github.com:rightsline/automation-ui-eGift.git`
