@@ -1,4 +1,4 @@
-# automattion-ui-eGift
+# automation-ui-eGift
 ### Automated cud test for Amazon's eGift feature
 
 ## Installing Cypress
